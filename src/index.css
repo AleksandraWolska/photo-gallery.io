@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;600&display=swap');
+
+
+body {
+    background-color: black;
+    color: bisque;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    
+}
+h1 {
+    font-weight: 600;
+    font-size: clamp(25px, 10vw, 90px);
+}
+h2 {
+    font-weight: 100;
+    font-size: clamp(10px, 5vw, 30px);
+}
