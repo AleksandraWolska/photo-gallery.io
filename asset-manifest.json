@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/photo-gallery.io/static/css/main.c32c2301.css",
-    "main.js": "/photo-gallery.io/static/js/main.16e0f8bd.js",
+    "main.js": "/photo-gallery.io/static/js/main.77a8cc12.js",
     "static/media/AWolska (34).jpg": "/photo-gallery.io/static/media/AWolska (34).9bac5e973fffa94ae09e.jpg",
     "static/media/AWolska (36).jpg": "/photo-gallery.io/static/media/AWolska (36).ae1622c5b2cebe304514.jpg",
     "static/media/AWolska (35).jpg": "/photo-gallery.io/static/media/AWolska (35).ee1a92630b5f7533b582.jpg",
@@ -48,10 +48,10 @@
     "static/media/AWolska (22).jpg": "/photo-gallery.io/static/media/AWolska (22).3e1cbdf087b959f1494c.jpg",
     "index.html": "/photo-gallery.io/index.html",
     "main.c32c2301.css.map": "/photo-gallery.io/static/css/main.c32c2301.css.map",
-    "main.16e0f8bd.js.map": "/photo-gallery.io/static/js/main.16e0f8bd.js.map"
+    "main.77a8cc12.js.map": "/photo-gallery.io/static/js/main.77a8cc12.js.map"
   },
   "entrypoints": [
     "static/css/main.c32c2301.css",
-    "static/js/main.16e0f8bd.js"
+    "static/js/main.77a8cc12.js"
   ]
 }
