@@ -1,15 +1,18 @@
 .gallery-grid {
     column-count: 3;
     column-width: 33.3%;
-    padding: 15px
+    padding: 15px;
 }
 
+.photo-item-container {
+    overflow: hidden;
+    margin-top: 15px;
+
+}
 
 .photo-item{
     transition: all 300ms ease;
     cursor: pointer;
-    margin-top: 15px;
-    overflow: hidden;
     
 }
 
