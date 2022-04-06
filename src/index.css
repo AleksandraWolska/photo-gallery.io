@@ -3,7 +3,7 @@
 
 body {
     background-color: black;
-    color: bisque;
+    color: whitesmoke;
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     
@@ -11,8 +11,28 @@ body {
 h1 {
     font-weight: 600;
     font-size: clamp(25px, 10vw, 90px);
+    margin: 0.5em 0 0 0;
 }
 h2 {
     font-weight: 100;
     font-size: clamp(10px, 5vw, 30px);
+    margin-bottom: 1.5em;
+   
+}
+
+@media only screen and (max-width: 769px) {
+    h2 {
+
+        margin-bottom: 15px;
+    }
+}
+
+
+@media only screen and (min-width: 1940px) {
+    h1 {
+        font-size: 5vw;
+    }
+    h2 {
+        font-size: 1.5vw;
+    }
 }

@@ -1,0 +1,16 @@
+
+
+@media (min-width: 769px ){
+    .seecode {
+        position: absolute;
+        top: 50px;
+        right: 40px;
+    }
+}
+
+
+@media (max-width: 769px ){
+    .seecode {
+        width: clamp(30px, 10vw, 64px);
+    }
+}
