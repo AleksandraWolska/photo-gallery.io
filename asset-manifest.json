@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/photo-gallery.io/static/css/main.e5343562.css",
-    "main.js": "/photo-gallery.io/static/js/main.b02658aa.js",
+    "main.css": "/photo-gallery.io/static/css/main.7aee8358.css",
+    "main.js": "/photo-gallery.io/static/js/main.3dcff936.js",
     "static/media/AWolska (34).jpg": "/photo-gallery.io/static/media/AWolska (34).9bac5e973fffa94ae09e.jpg",
     "static/media/AWolska (36).jpg": "/photo-gallery.io/static/media/AWolska (36).ae1622c5b2cebe304514.jpg",
     "static/media/AWolska (35).jpg": "/photo-gallery.io/static/media/AWolska (35).ee1a92630b5f7533b582.jpg",
@@ -47,11 +47,11 @@
     "static/media/AWolska (33).jpg": "/photo-gallery.io/static/media/AWolska (33).ebfab5f4673cc2c3c923.jpg",
     "static/media/AWolska (22).jpg": "/photo-gallery.io/static/media/AWolska (22).3e1cbdf087b959f1494c.jpg",
     "index.html": "/photo-gallery.io/index.html",
-    "main.e5343562.css.map": "/photo-gallery.io/static/css/main.e5343562.css.map",
-    "main.b02658aa.js.map": "/photo-gallery.io/static/js/main.b02658aa.js.map"
+    "main.7aee8358.css.map": "/photo-gallery.io/static/css/main.7aee8358.css.map",
+    "main.3dcff936.js.map": "/photo-gallery.io/static/js/main.3dcff936.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5343562.css",
-    "static/js/main.b02658aa.js"
+    "static/css/main.7aee8358.css",
+    "static/js/main.3dcff936.js"
   ]
 }
