@@ -14,6 +14,9 @@ function App() {
             </header>
 
             <Gallery />
+            <footer>
+                <h2>Contact: aleksandra.joanna.wolska@gmail.com</h2>
+            </footer>
         </div>
     );
 }
